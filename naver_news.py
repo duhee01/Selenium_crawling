@@ -1,6 +1,6 @@
 #정규표현식 import re 모듈 이용해서 특수문자 없애기
 
- 
+import re
 
 from selenium import webdriver
 
@@ -15,6 +15,8 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
  
+
+#f = open("C:\Users\Administrator\Desktop\news\news_text.txt",'w')
 
  
 
@@ -42,7 +44,7 @@ driver.maximize_window() #창 최대
 
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
 
-driver.find_element(By.XPATH,'//*[@id="section_body"]/ul[1]/li[1]/dl/dt[2]/a').click() #첫번재 묶음에서 기사 1번 제목클릭
+driver.find_element(By.XPATH,'//*[@id="section_body"]/ul[1]/li[2]/dl/dt[2]/a').click() #첫번재 묶음에서 기사 1번 제목클릭
 
 text = str(driver.find_element(By.XPATH,'//*[@id="dic_area"]').text)
 
@@ -50,7 +52,27 @@ print(text)
 
  
 
-       
+ 
+
+ 
+
+def clean_text(news_text):
+
+  text = re.sub('[-=+,#/\?:^.@*\"※~ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
+
+  text = text.replace(" ","",1000)
+
+  text = text.replace("\n","",1000)
+
+  return text
+
+ 
+
+news_text = clean_text(text)
+
+ 
+
+print(news_text)
 
  
 
