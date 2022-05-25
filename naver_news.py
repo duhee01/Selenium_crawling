@@ -16,7 +16,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
  
 
-f = open("C:\\Users\\Administrator\\Desktop\\news\\news_text1.txt","w")
+f = open("./news/news_text.txt","w")
 
  
 
