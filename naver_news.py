@@ -16,7 +16,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
  
 
-#f = open("C:\Users\Administrator\Desktop\news\news_text.txt",'w')
+f = open("C:\\Users\\Administrator\\Desktop\\news\\news_text1.txt","w")
 
  
 
@@ -58,9 +58,7 @@ print(text)
 
 def clean_text(news_text):
 
-  text = re.sub('[-=+,#/\?:^.@*\"※~ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
-
-  text = text.replace(" ","",1000)
+  text = re.sub('[-=+,#/\?:^.@*\"※~【▶◀ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
 
   text = text.replace("\n","",1000)
 
@@ -70,11 +68,27 @@ def clean_text(news_text):
 
 news_text = clean_text(text)
 
+#print(news_text)
+
+#텍스트파일에 쓰기
+
+f.write(news_text)
+
+f.close()
+
  
 
-print(news_text)
+ 
 
  
+
+"""
+
+txt파일로 저장해서
+
+news목록 만들기
+
+"""
 
  
 
