@@ -53,7 +53,7 @@ while(1):
 #'경제' 기사들어가기
 
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
-while i !=6:
+while i != 5:
     for k in range(1,6):
         url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
         driver.find_element(By.XPATH,url).click() #첫번재 묶음에서 기사 1번 제목클릭
