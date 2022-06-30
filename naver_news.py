@@ -43,13 +43,10 @@ webpage = driver.get('https://news.naver.com')#네이버창 열기
 
 driver.maximize_window() #창 최대
 
-
+"""
 #경제 페이지 개수세기
 
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
-
-
-
 for i in range(1000):
     try:
         if p%9 != 0:
@@ -70,40 +67,45 @@ for i in range(1000):
     except:
             print("페이지 조사 끝")
             break
-    
 
 """
 #'경제' 기사들어가기
 
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
-while j != 3:
-    for k in range(1,6):
-        url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
-        driver.find_element(By.XPATH,url).click() #첫번재 묶음에서 기사 1번 제목클릭
-        #날짜
-        date_time = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[3]/div[1]/div/span').text[:10]
-        date = clean_date(date_time)
-        dates.append(date)
-        print(dates)
-        #제목
-        title = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[2]/h2').text[:]
-        titles.append(title)
-        print(titles)
-        #본문
-        text = str(driver.find_element(By.XPATH,'//*[@id="dic_area"]').text)
-        news_text = clean_text(text)
-        contents.append(news_text)
-        print(contents)
-        driver.back()
-        if k == 5:
-            i += 1
-        if i == 5:
-            page = '//*[@id="paging"]/a['+str(j)+']'
-            driver.find_element(By.XPATH, page).click()
-            i = 1
-            k = 1
-            j += 1
-     
+while (1):
+    try:
+        for k in range(1,6):
+            url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
+            driver.find_element(By.XPATH,url).click() #첫번재 묶음에서 기사 1번 제목클릭
+            #날짜
+            date_time = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[3]/div[1]/div/span').text[:10]
+            date = clean_date(date_time)
+            dates.append(date)
+            print(dates)
+            #제목
+            title = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[2]/h2').text[:]
+            titles.append(title)
+            print(titles)
+            #본문
+            text = str(driver.find_element(By.XPATH,'//*[@id="dic_area"]').text)
+            news_text = clean_text(text)
+            contents.append(news_text)
+            print(contents)
+            driver.back()
+            if k == 5:
+                i += 1
+            if i == 5:
+                page = '//*[@id="paging"]/a['+str(j)+']'
+                driver.find_element(By.XPATH, page).click()
+                i = 1
+                k = 1
+                j += 1
+            if j == 9:
+                driver.find_element(By.SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
+                j = 1
+    except:
+         print("스크래핑 완료")
+         break
             
             
         
@@ -111,8 +113,3 @@ while j != 3:
 news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
 
 news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
-
-
-
-
-"""
