@@ -17,7 +17,7 @@ i = 1
 k = 1
 j = 1 #페이지변수
 page_number = 1 #페이지 개수 세기
-p = 1
+p = 2
 #chrome브라우저 열기
 
 def set_chrome_driver():
@@ -45,36 +45,39 @@ driver.maximize_window() #창 최대
 
 """
 #경제 페이지 개수세기
-
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
 for i in range(1000):
     try:
-        if p%9 != 0:
-            page_find = '//*[@id="paging"]/a['+str(p)+']'
-            driver.find_element(By.XPATH, page_find).click()
+        page_find = '#paging > a:nth-child('+str(p)+')'
+        if p%10 != 0:
+            page_find = '#paging > a:nth-child('+str(p)+')'
+            driver.find_element(By.CSS_SELECTOR, page_find).click()
             p += 1
             page_number += 1
             sleep(1)
             print(page_number)
 
-        if p%9 == 0:
-            driver.find_element(By.XPATH, '//*[@id="paging"]/strong').click()
-            page_number += 1
+        elif p%10 == 0:
+            driver.find_element(By.CSS_SELECTOR,"#paging > a._paging.next.nclicks\(air\.next\)").click()
+            p = 3
             sleep(1)
-            driver.find_element(By.SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
-            p = 1
+        elif page_find == "#paging > strong":
+            p += 1
+
             
     except:
+            driver.find_element
             print("페이지 조사 끝")
             break
-
+        #2번째 페이지 부터 2페이지씩 누락됨.
 """
+
 #'경제' 기사들어가기
 
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
 while (1):
     try:
-        for k in range(1,6):
+        for k in range(1,7):
             url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
             driver.find_element(By.XPATH,url).click() #첫번재 묶음에서 기사 1번 제목클릭
             #날짜
@@ -91,6 +94,7 @@ while (1):
             news_text = clean_text(text)
             contents.append(news_text)
             print(contents)
+            sleep(1)
             driver.back()
             if k == 5:
                 i += 1
@@ -103,6 +107,7 @@ while (1):
             if j == 9:
                 driver.find_element(By.SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
                 j = 1
+
     except:
          print("스크래핑 완료")
          break
@@ -113,3 +118,4 @@ while (1):
 news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
 
 news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
+
