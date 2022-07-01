@@ -13,9 +13,10 @@ import pandas as pd
 dates = [] #날짜저장
 titles = [] #제목저장
 contents = [] #본문저장
-i = 1
+i = 1 
 k = 1
 p = 2
+
 #chrome브라우저 열기
 
 def set_chrome_driver():
@@ -103,18 +104,17 @@ for n in range(1000):
             
         if i == 5:
             page_find = '#paging > a:nth-child('+str(p)+')'
-            driver.find_element(By.CSS_SELECTOR, page_find).click()
+            page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
             i = 1
             k = 1
             p += 1
+            print(p)
             sleep(1)
 
         if p == 10:
             driver.find_element(By.CSS_SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
             p = 3
             sleep(1)
-
-            
             
     except:
         print("스크래핑 완료")
