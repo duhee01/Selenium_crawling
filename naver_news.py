@@ -94,11 +94,11 @@ for n in range(1000):
         #print(contents)
         sleep(1)
         driver.back()
-        
+        print(url)
         if k < 6:
             k += 1
             
-        if k == 6:
+        if k > 5:
             i += 1
             k = 1
             
