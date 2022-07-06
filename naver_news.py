@@ -108,7 +108,7 @@ for n in range(1000):
             i = 1
             k = 1
             p += 1
-            print(p)
+            print("페이지 수 :" + p)
             sleep(1)
 
         if p == 10:
