@@ -97,11 +97,12 @@ for n in range(1000):
         print(url)
         if k < 6:
             k += 1
-            
+
         if k > 5:
             i += 1
             k = 1
-            
+        if i < 5:
+            continue
         if i == 5:
             page_find = '#paging > a:nth-child('+str(p)+')'
             page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
@@ -109,19 +110,27 @@ for n in range(1000):
             k = 1
             p += 1
             print(p)
-            sleep(1)
+            sleep(2)
 
         if p == 10:
             driver.find_element(By.CSS_SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
             p = 3
             sleep(1)
-        if url != url:
-            print("업로드 오류 입니다.")
-            p += 1
+
+        else:
+            print("오류")
+            page_find = '#paging > a:nth-child('+str(p)+')'
             page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
+            i = 1
+            k = 1
+            p += 1
+            print(p)
+            sleep(2)
+  
+
+    
             
-            
-            
+       
     except:
         print("스크래핑 완료")
         news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
