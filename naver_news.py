@@ -93,6 +93,8 @@ for n in range(1000):
         contents.append(news_text)
         #print(contents)
         sleep(1)
+        news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
+        news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
         driver.back()
         print(url)
         if k < 6:
@@ -101,8 +103,7 @@ for n in range(1000):
         if k > 5:
             i += 1
             k = 1
-        if i < 5:
-            continue
+
         if i == 5:
             page_find = '#paging > a:nth-child('+str(p)+')'
             page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
@@ -117,7 +118,7 @@ for n in range(1000):
             p = 3
             sleep(1)
 
-        else:
+        if url != url:
             print("오류")
             page_find = '#paging > a:nth-child('+str(p)+')'
             page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
@@ -129,13 +130,9 @@ for n in range(1000):
   
 
     
-            
-       
     except:
-        print("스크래핑 완료")
-        news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
-        news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
-        break
+        sleep(60)
+       
             
             
         
