@@ -118,13 +118,8 @@ for n in range(1000):
     
     except:
         driver.back()
-        p += 1
-        print("오류")
-        page_find = '#paging > a:nth-child('+str(p)+')'
-        page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
         i = 1
         k = 1
-        print(p)
         sleep(30)
   
 
