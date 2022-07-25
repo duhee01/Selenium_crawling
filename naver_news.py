@@ -25,6 +25,7 @@ def set_chrome_driver():
 def clean_text(news_text):
     text = re.sub('[-=+,#/\?:^.@*\"※~【▶◀ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
     text = text.replace("\n","",1000)
+    text = text.replace("// flash 오류를 우회하기 위한 함수 추가 function _flash_removeCallback() {}", "")
     return text
 
 def clean_date(date_text):
@@ -118,9 +119,14 @@ for n in range(1000):
     
     except:
         driver.back()
+        sleep(300)
+        page_find = '#paging > a:nth-child('+str(p)+')'
+        page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
         i = 1
         k = 1
-        sleep(30)
+        p += 1
+        print(p)
+        
   
 
             
