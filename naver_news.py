@@ -6,7 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep 
 from datetime import datetime
 import pandas as pd
-
+import requests
+from bs4 import BeautifulSoup
 
 dates = [] #날짜저장
 titles = [] #제목저장
@@ -24,8 +25,7 @@ def set_chrome_driver():
 
 def clean_text(news_text):
     text = re.sub('[-=+,#/\?:^.@*\"※~【▶◀ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
-    text = text.replace("\n","",1000)
-    text = text.replace("// flash 오류를 우회하기 위한 함수 추가 function _flash_removeCallback() {}", "")
+    #text = text.replace("\n","",1000)
     return text
 
 def clean_date(date_text):
@@ -41,32 +41,13 @@ webpage = driver.get('https://news.naver.com')#네이버창 열기
 
 driver.maximize_window() #창 최대
 
-"""
-#경제 페이지 개수세기
-driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
-for i in range(1000):
-    try:
-        page_find = '#paging > a:nth-child('+str(p)+')'
-        if p%10 != 0:
-            page_find = '#paging > a:nth-child('+str(p)+')'
-            driver.find_element(By.CSS_SELECTOR, page_find).click()
-            p += 1
-            page_number += 1
-            sleep(1)
-            print(page_number)
-        elif p%10 == 0:
-            driver.find_element(By.CSS_SELECTOR,"#paging > a._paging.next.nclicks\(air\.next\)").click()
-            p = 3
-            sleep(1)
-        elif page_find == "#paging > strong":
-            p += 1
-            
-    except:
-            driver.find_element
-            print("페이지 조사 끝")
-            break
-        #2번째 페이지 부터 2페이지씩 누락됨.
-"""
+
+
+# header 설정
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}
+url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=101'
+# 요청 
+r = requests.get(url, headers=headers)
 
 #'경제' 기사 크롤링
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
@@ -91,7 +72,7 @@ for n in range(1000):
         #print(contents)
         sleep(1)
         news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
-        news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
+        news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Selenium_crawling\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
         driver.back()
         print(url)
         if k < 6:
@@ -118,14 +99,9 @@ for n in range(1000):
 
     
     except:
-        driver.back()
-        sleep(300)
-        page_find = '#paging > a:nth-child('+str(p)+')'
-        page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
-        i = 1
-        k = 1
-        p += 1
-        print(p)
+        url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=101'
+        html = requests.get(url).text
+        print(html)
         
   
 
