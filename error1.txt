@@ -1,0 +1,10 @@
+첫번째 오류 1.
+ except Exception as error:
+        print(error)
+의 코드를 사용해서 에러를 찾아내 본 결과
+Unable to locate element: {"method":"xpath","selector......}라는 오류가 나타났음. 
+크롤링 할 때 화면이 제대로 로드 되지 않아서 sleep(시간) 말고 
+wait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '[xpath 주소]')))
+를 사용하여 로딩이 끝날 때 까지 기다리는 코드를 사용하여 error를 찾아냄.
+but 2번째 오류로, 신문기사에 사진+제목으로 되어있어 xpath 코드 규칙이 동일했는데
+기사에 제목으로만 되어있는 xpath는 다른 코드로 되어있어서 클릭이 안되어 오류가 발생함. 
