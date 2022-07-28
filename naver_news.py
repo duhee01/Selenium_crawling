@@ -16,16 +16,16 @@ i = 1
 k = 1
 p = 2
 
-#chrome브라우저 열기
 
 def set_chrome_driver():
     chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_experimental_option("excludeSwitches",["enable-logging"])
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     return driver
 
 def clean_text(news_text):
     text = re.sub('[-=+,#/\?:^.@*\"※~【▶◀ㆍ!』‘|\(\)\[\]`\'…》\”\“\’·]', ' ', news_text)
-    #text = text.replace("\n","",1000)
+    text = text.replace("\n","",1000)
     return text
 
 def clean_date(date_text):
@@ -44,37 +44,44 @@ driver.maximize_window() #창 최대
 
 
 # header 설정
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+           "Accept-Encoding": "*",
+           "Connection": "keep-alive",
+           "X-Naver_Client-Id":"0jGhGxgBPvscKc4KztGE",
+           "X-Naver-Client-Secret":"7V01treriv"
+           }
+payload = {'param1': '1', 'param2': '2'}
 url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=101'
 # 요청 
-r = requests.get(url, headers=headers)
+r = requests.get(url, params=payload, headers=headers)
+
+print(r)
+
 
 #'경제' 기사 크롤링
 driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
-for n in range(1000):
+for n in range(1000000):
     try:
         page_find = '#paging > a:nth-child('+str(p)+')'
         url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
         driver.find_element(By.XPATH, url).click()
-        #날짜
+
         date_time = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[3]/div[1]/div/span').text[:10]
         date = clean_date(date_time)
         dates.append(date)
-        #print(dates)
-        #제목
+
         title = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[2]/h2').text[:]
         titles.append(title)
-        #print(titles)
-        #본문
+
         text = str(driver.find_element(By.XPATH,'//*[@id="dic_area"]').text)
         news_text = clean_text(text)
         contents.append(news_text)
-        #print(contents)
-        sleep(1)
+        
         news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
         news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Selenium_crawling\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
+        sleep(1)
         driver.back()
-        print(url)
+        
         if k < 6:
             k += 1
 
@@ -88,7 +95,6 @@ for n in range(1000):
             i = 1
             k = 1
             p += 1
-            print(p)
             sleep(2)
 
         if p == 10:
@@ -98,11 +104,10 @@ for n in range(1000):
 
 
     
-    except:
-        url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=101'
-        html = requests.get(url).text
-        print(html)
-        
+    except Exception as error:
+        print(error)
+        driver.back()
+
   
 
             
