@@ -1,0 +1,17 @@
+ except:
+        print("크롤링 완료")
+        print("크롤링 한 페이지 수: " + str(page_num))
+        news_df = pd.DataFrame({'title':titles,'date':dates,'content':contents})
+        news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Beautifulsoup_base\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
+        break
+내가 대비한 에러는 과도한 request시 네이버가 나의 ip를 막고, 더 이상 루프를 돌리기 어려울 때이다.
+출처: https://signing.tistory.com/77 [끄적거림:티스토리]
+DevTools listening on ws://127.0.0.1:1619/devtools/browser/95a8d82a-4f33-4707-8bfe-7c6cc13f430b
+[6856:3660:0720/184258.675:ERROR:device_event_log_impl.cc(214)] [18:42:58.674] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+[6856:3660:0720/184258.677:ERROR:device_event_log_impl.cc(214)] [18:42:58.676] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+[6856:3660:0720/184258.677:ERROR:device_event_log_impl.cc(214)] [18:42:58.677] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+~7/21 
+크롤링
+-네이버기사 크롤링 하는 도중에 1000개 데이터가 쌓이면 계속 멈추는 오류가 발생함.
+원인은 잘 모르겠어서 계속 코드 고치기 + 구글 찾아서 오류 찾아내는중,,, 
