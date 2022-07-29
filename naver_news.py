@@ -61,14 +61,18 @@ print(r)
 
 
 #'경제' 기사 크롤링
-wait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span'))).click()
-
+wait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span'))).click()
 #driver.find_element(By.XPATH,'/html/body/section/header/div[2]/div/div/div[1]/div/div/ul/li[3]/a/span').click()
 for n in range(1000000):
     try:
         page_find = '#paging > a:nth-child('+str(p)+')'
         url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
-        wait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, url))).click()
+        if url != '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a":
+            url = '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt/a"
+            wait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, url))).click()
+        else:
+            url =  '//*[@id="section_body"]/ul['+str(i)+"]/li["+str(k)+"]/dl/dt[2]/a"
+            wait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, url))).click()
         #driver.find_element(By.XPATH, url).click()
         sleep(0.5)
         date_time = driver.find_element(By.XPATH, '//*[@id="ct"]/div[1]/div[3]/div[1]/div/span').text[:10]         
@@ -86,7 +90,7 @@ for n in range(1000000):
         news_df.to_csv('C:\\Users\\user\\OneDrive\\문서\\GitHub\\Selenium_crawling\\news\\NaverNews.csv',index=False,encoding='utf-8-sig')
         sleep(1.5)
         driver.back()
-        
+    
         if k < 6:
             k += 1
 
@@ -97,7 +101,7 @@ for n in range(1000000):
         if i == 5:
             page_find = '#paging > a:nth-child('+str(p)+')'
             #page_click = driver.find_element(By.CSS_SELECTOR, page_find).click()
-            wait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, page_find))).click()
+            wait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, page_find))).click()
             i = 1
             k = 1
             p += 1
@@ -105,10 +109,10 @@ for n in range(1000000):
 
         if p == 10:
             #driver.find_element(By.CSS_SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)").click()
-            wait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)"))).click()
+            wait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#paging > a._paging.next.nclicks\(air\.next\)"))).click()
             p = 3
             sleep(1)
-
+           
 
     
     except Exception as error:
