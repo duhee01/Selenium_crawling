@@ -35,16 +35,6 @@ def clean_date(date_text):
     date = date.strftime('%Y-%m-%d')
     return date
 
-driver=set_chrome_driver()
-
-driver.implicitly_wait(10)
-
-webpage = driver.get('https://news.naver.com')#네이버창 열기
-
-driver.maximize_window() #창 최대
-
-
-
 # header 설정
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
            "Accept-Encoding": "*",
@@ -58,6 +48,17 @@ url = 'https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=101'
 r = requests.get(url, params=payload, headers=headers)
 
 print(r)
+
+driver=set_chrome_driver()
+
+driver.implicitly_wait(10)
+
+webpage = driver.get('https://news.naver.com')#네이버창 열기
+
+driver.maximize_window() #창 최대
+
+
+
 
 
 #'경제' 기사 크롤링
