@@ -1,0 +1,4997 @@
+[
+ {
+   "keyword_no": 1,
+   "main_keyword": "재정",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 2,
+   "main_keyword": "거래",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 3,
+   "main_keyword": "결제",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 4,
+   "main_keyword": "대출",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 5,
+   "main_keyword": "증권",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 6,
+   "main_keyword": "재정",
+   "keyword_count": 41
+ },
+ {
+   "keyword_no": 7,
+   "main_keyword": "태양광",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 8,
+   "main_keyword": "금리",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 9,
+   "main_keyword": "분양",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 10,
+   "main_keyword": "김치",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 11,
+   "main_keyword": "환율",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 12,
+   "main_keyword": "정부",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 13,
+   "main_keyword": "원전",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 14,
+   "main_keyword": "달러",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 15,
+   "main_keyword": "포인트",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 16,
+   "main_keyword": "재고",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 17,
+   "main_keyword": "대교",
+   "keyword_count": 32
+ },
+ {
+   "keyword_no": 18,
+   "main_keyword": "배당",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 19,
+   "main_keyword": "전세",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 20,
+   "main_keyword": "금리",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 21,
+   "main_keyword": "전자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 22,
+   "main_keyword": "변호사",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 23,
+   "main_keyword": "주가",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 24,
+   "main_keyword": "물가",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 25,
+   "main_keyword": "전기요금",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 26,
+   "main_keyword": "고용",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 27,
+   "main_keyword": "켈로그",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 28,
+   "main_keyword": "재정",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 29,
+   "main_keyword": "물류",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 30,
+   "main_keyword": "무인",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 31,
+   "main_keyword": "가격",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 32,
+   "main_keyword": "이익",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 33,
+   "main_keyword": "원전",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 34,
+   "main_keyword": "물가",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 35,
+   "main_keyword": "포장",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 36,
+   "main_keyword": "재정",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 37,
+   "main_keyword": "경기",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 38,
+   "main_keyword": "매물",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 39,
+   "main_keyword": "요금",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 40,
+   "main_keyword": "편의점",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 41,
+   "main_keyword": "아파트",
+   "keyword_count": 40
+ },
+ {
+   "keyword_no": 42,
+   "main_keyword": "세계",
+   "keyword_count": 46
+ },
+ {
+   "keyword_no": 43,
+   "main_keyword": "투자",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 44,
+   "main_keyword": "물가",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 45,
+   "main_keyword": "금리",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 46,
+   "main_keyword": "재정",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 47,
+   "main_keyword": "재정",
+   "keyword_count": 47
+ },
+ {
+   "keyword_no": 48,
+   "main_keyword": "고소영",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 49,
+   "main_keyword": "편의점",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 50,
+   "main_keyword": "러시아",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 51,
+   "main_keyword": "원전",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 52,
+   "main_keyword": "금리",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 53,
+   "main_keyword": "원전",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 54,
+   "main_keyword": "전력",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 55,
+   "main_keyword": "아파트",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 56,
+   "main_keyword": "정부",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 57,
+   "main_keyword": "재정",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 58,
+   "main_keyword": "공장",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 59,
+   "main_keyword": "반도체",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 60,
+   "main_keyword": "상가",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 61,
+   "main_keyword": "노동자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 62,
+   "main_keyword": "인수",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 63,
+   "main_keyword": "회생",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 64,
+   "main_keyword": "배터리",
+   "keyword_count": 39
+ },
+ {
+   "keyword_no": 65,
+   "main_keyword": "수익률",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 66,
+   "main_keyword": "에어컨",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 67,
+   "main_keyword": "원전",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 68,
+   "main_keyword": "전력",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 69,
+   "main_keyword": "전자",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 70,
+   "main_keyword": "포장",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 71,
+   "main_keyword": "정부",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 72,
+   "main_keyword": "공기",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 73,
+   "main_keyword": "전자",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 74,
+   "main_keyword": "종로타워",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 75,
+   "main_keyword": "조합",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 76,
+   "main_keyword": "가격",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 77,
+   "main_keyword": "실적",
+   "keyword_count": 38
+ },
+ {
+   "keyword_no": 78,
+   "main_keyword": "통합",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 79,
+   "main_keyword": "인수",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 80,
+   "main_keyword": "대출",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 81,
+   "main_keyword": "격리",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 82,
+   "main_keyword": "물가",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 83,
+   "main_keyword": "조합",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 84,
+   "main_keyword": "매물",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 85,
+   "main_keyword": "분양",
+   "keyword_count": 39
+ },
+ {
+   "keyword_no": 86,
+   "main_keyword": "달러",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 87,
+   "main_keyword": "매장",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 88,
+   "main_keyword": "요금",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 89,
+   "main_keyword": "국가",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 90,
+   "main_keyword": "지역화폐",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 91,
+   "main_keyword": "조합",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 92,
+   "main_keyword": "아파트",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 93,
+   "main_keyword": "원전",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 94,
+   "main_keyword": "원전",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 95,
+   "main_keyword": "그룹",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 96,
+   "main_keyword": "태양광",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 97,
+   "main_keyword": "거래",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 98,
+   "main_keyword": "카드",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 99,
+   "main_keyword": "대출",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 100,
+   "main_keyword": "전력",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 101,
+   "main_keyword": "거래",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 102,
+   "main_keyword": "인상",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 103,
+   "main_keyword": "거래",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 104,
+   "main_keyword": "실적",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 105,
+   "main_keyword": "가격",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 106,
+   "main_keyword": "재정",
+   "keyword_count": 29
+ },
+ {
+   "keyword_no": 107,
+   "main_keyword": "분양",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 108,
+   "main_keyword": "원전",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 109,
+   "main_keyword": "영업",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 110,
+   "main_keyword": "원장",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 111,
+   "main_keyword": "재정",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 112,
+   "main_keyword": "하락",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 113,
+   "main_keyword": "감염",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 114,
+   "main_keyword": "인플레이션",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 115,
+   "main_keyword": "카드",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 116,
+   "main_keyword": "하락",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 117,
+   "main_keyword": "생산",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 118,
+   "main_keyword": "사주",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 119,
+   "main_keyword": "전세",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 120,
+   "main_keyword": "금융",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 121,
+   "main_keyword": "금융",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 122,
+   "main_keyword": "이익",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 123,
+   "main_keyword": "급여",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 124,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 125,
+   "main_keyword": "은행",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 126,
+   "main_keyword": "전자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 127,
+   "main_keyword": "반도체",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 128,
+   "main_keyword": "직원",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 129,
+   "main_keyword": "금융",
+   "keyword_count": 36
+ },
+ {
+   "keyword_no": 130,
+   "main_keyword": "재정",
+   "keyword_count": 37
+ },
+ {
+   "keyword_no": 131,
+   "main_keyword": "기자",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 132,
+   "main_keyword": "금리",
+   "keyword_count": 48
+ },
+ {
+   "keyword_no": 133,
+   "main_keyword": "이란",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 134,
+   "main_keyword": "아파트",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 135,
+   "main_keyword": "소상",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 136,
+   "main_keyword": "매출",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 137,
+   "main_keyword": "배당",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 138,
+   "main_keyword": "증가",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 139,
+   "main_keyword": "교수",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 140,
+   "main_keyword": "종로타워",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 141,
+   "main_keyword": "삼성",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 142,
+   "main_keyword": "구리",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 143,
+   "main_keyword": "원가",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 144,
+   "main_keyword": "대우조선",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 145,
+   "main_keyword": "대출",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 146,
+   "main_keyword": "지수",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 147,
+   "main_keyword": "할머니",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 148,
+   "main_keyword": "가격",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 149,
+   "main_keyword": "계약",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 150,
+   "main_keyword": "중고차",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 151,
+   "main_keyword": "주가",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 152,
+   "main_keyword": "앵커",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 153,
+   "main_keyword": "반도체",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 154,
+   "main_keyword": "원전",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 155,
+   "main_keyword": "아파트",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 156,
+   "main_keyword": "바이오",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 157,
+   "main_keyword": "실적",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 158,
+   "main_keyword": "임대",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 159,
+   "main_keyword": "종로타워",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 160,
+   "main_keyword": "가격",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 161,
+   "main_keyword": "상장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 162,
+   "main_keyword": "중국",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 163,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 164,
+   "main_keyword": "최영일",
+   "keyword_count": 68
+ },
+ {
+   "keyword_no": 165,
+   "main_keyword": "티몬",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 166,
+   "main_keyword": "상가",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 167,
+   "main_keyword": "서울시",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 168,
+   "main_keyword": "금융",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 169,
+   "main_keyword": "금리",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 170,
+   "main_keyword": "반도체",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 171,
+   "main_keyword": "균열",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 172,
+   "main_keyword": "무인",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 173,
+   "main_keyword": "에너지",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 174,
+   "main_keyword": "곡물",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 175,
+   "main_keyword": "청약",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 176,
+   "main_keyword": "구글",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 177,
+   "main_keyword": "전자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 178,
+   "main_keyword": "영업",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 179,
+   "main_keyword": "유행",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 180,
+   "main_keyword": "청년",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 181,
+   "main_keyword": "금리",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 182,
+   "main_keyword": "재고",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 183,
+   "main_keyword": "신용",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 184,
+   "main_keyword": "회장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 185,
+   "main_keyword": "개발",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 186,
+   "main_keyword": "라이온하트",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 187,
+   "main_keyword": "한국",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 188,
+   "main_keyword": "종로타워",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 189,
+   "main_keyword": "낙찰",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 190,
+   "main_keyword": "하락",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 191,
+   "main_keyword": "빌딩",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 192,
+   "main_keyword": "람보르기니",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 193,
+   "main_keyword": "재정",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 194,
+   "main_keyword": "금리",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 195,
+   "main_keyword": "경기",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 196,
+   "main_keyword": "주식",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 197,
+   "main_keyword": "생산",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 198,
+   "main_keyword": "한국",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 199,
+   "main_keyword": "정부",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 200,
+   "main_keyword": "매출",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 201,
+   "main_keyword": "심방",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 202,
+   "main_keyword": "캠핑",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 203,
+   "main_keyword": "작업",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 204,
+   "main_keyword": "에어컨",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 205,
+   "main_keyword": "인상",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 206,
+   "main_keyword": "소비",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 207,
+   "main_keyword": "현장",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 208,
+   "main_keyword": "재정",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 209,
+   "main_keyword": "규제",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 210,
+   "main_keyword": "달러",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 211,
+   "main_keyword": "지출",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 212,
+   "main_keyword": "전국",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 213,
+   "main_keyword": "전자",
+   "keyword_count": 36
+ },
+ {
+   "keyword_no": 214,
+   "main_keyword": "서비스",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 215,
+   "main_keyword": "메타",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 216,
+   "main_keyword": "재정",
+   "keyword_count": 34
+ },
+ {
+   "keyword_no": 217,
+   "main_keyword": "공매도",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 218,
+   "main_keyword": "사업",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 219,
+   "main_keyword": "하락",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 220,
+   "main_keyword": "전자",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 221,
+   "main_keyword": "아파트",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 222,
+   "main_keyword": "대우조선",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 223,
+   "main_keyword": "우크라이나",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 224,
+   "main_keyword": "전자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 225,
+   "main_keyword": "경기",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 226,
+   "main_keyword": "아파트",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 227,
+   "main_keyword": "소득",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 228,
+   "main_keyword": "전력",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 229,
+   "main_keyword": "사업",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 230,
+   "main_keyword": "자율",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 231,
+   "main_keyword": "인상",
+   "keyword_count": 3
+ },
+ {
+   "keyword_no": 232,
+   "main_keyword": "에너지",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 233,
+   "main_keyword": "사업",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 234,
+   "main_keyword": "재정",
+   "keyword_count": 46
+ },
+ {
+   "keyword_no": 235,
+   "main_keyword": "코인",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 236,
+   "main_keyword": "매출",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 237,
+   "main_keyword": "원장",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 238,
+   "main_keyword": "더블유",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 239,
+   "main_keyword": "에너지",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 240,
+   "main_keyword": "재정",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 241,
+   "main_keyword": "노바티스",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 242,
+   "main_keyword": "종로타워",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 243,
+   "main_keyword": "가격",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 244,
+   "main_keyword": "프로듀서",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 245,
+   "main_keyword": "이용",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 246,
+   "main_keyword": "가스",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 247,
+   "main_keyword": "현대차",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 248,
+   "main_keyword": "상",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 249,
+   "main_keyword": "낙찰",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 250,
+   "main_keyword": "에너지",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 251,
+   "main_keyword": "관세청",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 252,
+   "main_keyword": "택시",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 253,
+   "main_keyword": "출자",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 254,
+   "main_keyword": "전자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 255,
+   "main_keyword": "카카오",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 256,
+   "main_keyword": "주가",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 257,
+   "main_keyword": "재정",
+   "keyword_count": 43
+ },
+ {
+   "keyword_no": 258,
+   "main_keyword": "제로",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 259,
+   "main_keyword": "대우조선",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 260,
+   "main_keyword": "공장",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 261,
+   "main_keyword": "사업",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 262,
+   "main_keyword": "책임자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 263,
+   "main_keyword": "원전",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 264,
+   "main_keyword": "하락",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 265,
+   "main_keyword": "대출",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 266,
+   "main_keyword": "취득",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 267,
+   "main_keyword": "재정",
+   "keyword_count": 38
+ },
+ {
+   "keyword_no": 268,
+   "main_keyword": "원자력",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 269,
+   "main_keyword": "대우조선",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 270,
+   "main_keyword": "의사",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 271,
+   "main_keyword": "의사",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 272,
+   "main_keyword": "마일리지",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 273,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 274,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 275,
+   "main_keyword": "실적",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 276,
+   "main_keyword": "중공업",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 277,
+   "main_keyword": "원전",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 278,
+   "main_keyword": "종로타워",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 279,
+   "main_keyword": "카드",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 280,
+   "main_keyword": "생산",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 281,
+   "main_keyword": "실적",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 282,
+   "main_keyword": "이익",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 283,
+   "main_keyword": "주가",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 284,
+   "main_keyword": "영업",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 285,
+   "main_keyword": "슈팅",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 286,
+   "main_keyword": "영업",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 287,
+   "main_keyword": "전세",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 288,
+   "main_keyword": "영업",
+   "keyword_count": 35
+ },
+ {
+   "keyword_no": 289,
+   "main_keyword": "상승",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 290,
+   "main_keyword": "가격",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 291,
+   "main_keyword": "책임자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 292,
+   "main_keyword": "티몬",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 293,
+   "main_keyword": "상승",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 294,
+   "main_keyword": "무상증자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 295,
+   "main_keyword": "무인",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 296,
+   "main_keyword": "수요",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 297,
+   "main_keyword": "종로타워",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 298,
+   "main_keyword": "종로타워",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 299,
+   "main_keyword": "루닛",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 300,
+   "main_keyword": "상승",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 301,
+   "main_keyword": "영업",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 302,
+   "main_keyword": "독신남",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 303,
+   "main_keyword": "지수",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 304,
+   "main_keyword": "아파트",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 305,
+   "main_keyword": "리츠",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 306,
+   "main_keyword": "생산",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 307,
+   "main_keyword": "전자",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 308,
+   "main_keyword": "조합",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 309,
+   "main_keyword": "재정",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 310,
+   "main_keyword": "주식",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 311,
+   "main_keyword": "공무원",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 312,
+   "main_keyword": "전자",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 313,
+   "main_keyword": "규제",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 314,
+   "main_keyword": "애플",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 315,
+   "main_keyword": "수주",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 316,
+   "main_keyword": "화장품",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 317,
+   "main_keyword": "매출",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 318,
+   "main_keyword": "기록",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 319,
+   "main_keyword": "멕시코",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 320,
+   "main_keyword": "고씨",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 321,
+   "main_keyword": "고씨",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 322,
+   "main_keyword": "전자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 323,
+   "main_keyword": "성심당",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 324,
+   "main_keyword": "재정",
+   "keyword_count": 47
+ },
+ {
+   "keyword_no": 325,
+   "main_keyword": "영업",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 326,
+   "main_keyword": "사장",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 327,
+   "main_keyword": "재정",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 328,
+   "main_keyword": "증권",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 329,
+   "main_keyword": "재정",
+   "keyword_count": 39
+ },
+ {
+   "keyword_no": 330,
+   "main_keyword": "사업자",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 331,
+   "main_keyword": "광구",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 332,
+   "main_keyword": "배터리",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 333,
+   "main_keyword": "대우조선",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 334,
+   "main_keyword": "공항",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 335,
+   "main_keyword": "투자",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 336,
+   "main_keyword": "매출",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 337,
+   "main_keyword": "게임",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 338,
+   "main_keyword": "리츠",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 339,
+   "main_keyword": "코로나",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 340,
+   "main_keyword": "재정",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 341,
+   "main_keyword": "전자",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 342,
+   "main_keyword": "인수",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 343,
+   "main_keyword": "재정",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 344,
+   "main_keyword": "대출",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 345,
+   "main_keyword": "한라",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 346,
+   "main_keyword": "수주",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 347,
+   "main_keyword": "점검",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 348,
+   "main_keyword": "호암상",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 349,
+   "main_keyword": "재정",
+   "keyword_count": 56
+ },
+ {
+   "keyword_no": 350,
+   "main_keyword": "공사",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 351,
+   "main_keyword": "분양",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 352,
+   "main_keyword": "전자",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 353,
+   "main_keyword": "재정",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 354,
+   "main_keyword": "바이오",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 355,
+   "main_keyword": "백신",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 356,
+   "main_keyword": "신차",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 357,
+   "main_keyword": "신고",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 358,
+   "main_keyword": "실적",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 359,
+   "main_keyword": "청년",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 360,
+   "main_keyword": "종로타워",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 361,
+   "main_keyword": "전기차",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 362,
+   "main_keyword": "상장",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 363,
+   "main_keyword": "낙찰",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 364,
+   "main_keyword": "기업",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 365,
+   "main_keyword": "덕산",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 366,
+   "main_keyword": "건물",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 367,
+   "main_keyword": "빌라",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 368,
+   "main_keyword": "빌라",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 369,
+   "main_keyword": "전자",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 370,
+   "main_keyword": "보증금",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 371,
+   "main_keyword": "소득",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 372,
+   "main_keyword": "매출",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 373,
+   "main_keyword": "상승",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 374,
+   "main_keyword": "비트코인",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 375,
+   "main_keyword": "사업",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 376,
+   "main_keyword": "노미",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 377,
+   "main_keyword": "가격",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 378,
+   "main_keyword": "편의점",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 379,
+   "main_keyword": "카드",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 380,
+   "main_keyword": "기업",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 381,
+   "main_keyword": "리츠",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 382,
+   "main_keyword": "뱅크",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 383,
+   "main_keyword": "하락",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 384,
+   "main_keyword": "반도체",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 385,
+   "main_keyword": "하락",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 386,
+   "main_keyword": "부회장",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 387,
+   "main_keyword": "실적",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 388,
+   "main_keyword": "중국",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 389,
+   "main_keyword": "검사",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 390,
+   "main_keyword": "제철",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 391,
+   "main_keyword": "청년",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 392,
+   "main_keyword": "카드",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 393,
+   "main_keyword": "메타",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 394,
+   "main_keyword": "유니콘",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 395,
+   "main_keyword": "한국",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 396,
+   "main_keyword": "서울",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 397,
+   "main_keyword": "노조",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 398,
+   "main_keyword": "하락",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 399,
+   "main_keyword": "재정",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 400,
+   "main_keyword": "재정",
+   "keyword_count": 51
+ },
+ {
+   "keyword_no": 401,
+   "main_keyword": "재정",
+   "keyword_count": 51
+ },
+ {
+   "keyword_no": 402,
+   "main_keyword": "샴푸",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 403,
+   "main_keyword": "재정",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 404,
+   "main_keyword": "재정",
+   "keyword_count": 38
+ },
+ {
+   "keyword_no": 405,
+   "main_keyword": "인상",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 406,
+   "main_keyword": "재정",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 407,
+   "main_keyword": "재정",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 408,
+   "main_keyword": "공무원",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 409,
+   "main_keyword": "투자",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 410,
+   "main_keyword": "재정",
+   "keyword_count": 43
+ },
+ {
+   "keyword_no": 411,
+   "main_keyword": "재정",
+   "keyword_count": 46
+ },
+ {
+   "keyword_no": 412,
+   "main_keyword": "재정",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 413,
+   "main_keyword": "재정",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 414,
+   "main_keyword": "정부",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 415,
+   "main_keyword": "재정",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 416,
+   "main_keyword": "재정",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 417,
+   "main_keyword": "재정",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 418,
+   "main_keyword": "음성",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 419,
+   "main_keyword": "금리",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 420,
+   "main_keyword": "달러",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 421,
+   "main_keyword": "재정",
+   "keyword_count": 45
+ },
+ {
+   "keyword_no": 422,
+   "main_keyword": "재정",
+   "keyword_count": 29
+ },
+ {
+   "keyword_no": 423,
+   "main_keyword": "재정",
+   "keyword_count": 55
+ },
+ {
+   "keyword_no": 424,
+   "main_keyword": "매각",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 425,
+   "main_keyword": "경제",
+   "keyword_count": 39
+ },
+ {
+   "keyword_no": 426,
+   "main_keyword": "신고",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 427,
+   "main_keyword": "편의점",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 428,
+   "main_keyword": "원전",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 429,
+   "main_keyword": "리츠",
+   "keyword_count": 45
+ },
+ {
+   "keyword_no": 430,
+   "main_keyword": "아파트",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 431,
+   "main_keyword": "에너지",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 432,
+   "main_keyword": "수소",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 433,
+   "main_keyword": "진자",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 434,
+   "main_keyword": "투자",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 435,
+   "main_keyword": "금리",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 436,
+   "main_keyword": "참석",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 437,
+   "main_keyword": "하락",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 438,
+   "main_keyword": "지수",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 439,
+   "main_keyword": "분리",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 440,
+   "main_keyword": "연구원",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 441,
+   "main_keyword": "사이클링",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 442,
+   "main_keyword": "저축은행",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 443,
+   "main_keyword": "한국",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 444,
+   "main_keyword": "노미",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 445,
+   "main_keyword": "근로",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 446,
+   "main_keyword": "일대",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 447,
+   "main_keyword": "식대",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 448,
+   "main_keyword": "상승",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 449,
+   "main_keyword": "유가",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 450,
+   "main_keyword": "계약",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 451,
+   "main_keyword": "보수",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 452,
+   "main_keyword": "횡령",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 453,
+   "main_keyword": "오피스텔",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 454,
+   "main_keyword": "투자",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 455,
+   "main_keyword": "알뜰폰",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 456,
+   "main_keyword": "외환",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 457,
+   "main_keyword": "원전",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 458,
+   "main_keyword": "부적",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 459,
+   "main_keyword": "람보르기니",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 460,
+   "main_keyword": "부담",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 461,
+   "main_keyword": "자장면",
+   "keyword_count": 3
+ },
+ {
+   "keyword_no": 462,
+   "main_keyword": "치료",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 463,
+   "main_keyword": "매장",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 464,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 465,
+   "main_keyword": "카드",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 466,
+   "main_keyword": "자장면",
+   "keyword_count": 3
+ },
+ {
+   "keyword_no": 467,
+   "main_keyword": "결제",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 468,
+   "main_keyword": "날씨",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 469,
+   "main_keyword": "미국",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 470,
+   "main_keyword": "리츠",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 471,
+   "main_keyword": "사업",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 472,
+   "main_keyword": "집값",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 473,
+   "main_keyword": "원장",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 474,
+   "main_keyword": "등급",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 475,
+   "main_keyword": "분양",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 476,
+   "main_keyword": "회사",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 477,
+   "main_keyword": "독일",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 478,
+   "main_keyword": "코스피",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 479,
+   "main_keyword": "코로나",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 480,
+   "main_keyword": "이사장",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 481,
+   "main_keyword": "이자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 482,
+   "main_keyword": "인천",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 483,
+   "main_keyword": "리츠",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 484,
+   "main_keyword": "신고",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 485,
+   "main_keyword": "신고",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 486,
+   "main_keyword": "상품",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 487,
+   "main_keyword": "신고",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 488,
+   "main_keyword": "신고",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 489,
+   "main_keyword": "신고",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 490,
+   "main_keyword": "원유",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 491,
+   "main_keyword": "인상",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 492,
+   "main_keyword": "인플레이션",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 493,
+   "main_keyword": "사업",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 494,
+   "main_keyword": "금리",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 495,
+   "main_keyword": "전자",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 496,
+   "main_keyword": "주가",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 497,
+   "main_keyword": "매출",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 498,
+   "main_keyword": "급여",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 499,
+   "main_keyword": "롯데",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 500,
+   "main_keyword": "가격",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 501,
+   "main_keyword": "리츠",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 502,
+   "main_keyword": "실적",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 503,
+   "main_keyword": "경기",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 504,
+   "main_keyword": "재정",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 505,
+   "main_keyword": "원장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 506,
+   "main_keyword": "거래",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 507,
+   "main_keyword": "포항",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 508,
+   "main_keyword": "회사",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 509,
+   "main_keyword": "사업",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 510,
+   "main_keyword": "낙찰",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 511,
+   "main_keyword": "증권",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 512,
+   "main_keyword": "송금",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 513,
+   "main_keyword": "금제",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 514,
+   "main_keyword": "한국",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 515,
+   "main_keyword": "원전",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 516,
+   "main_keyword": "외식",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 517,
+   "main_keyword": "메타",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 518,
+   "main_keyword": "상장",
+   "keyword_count": 33
+ },
+ {
+   "keyword_no": 519,
+   "main_keyword": "횡령",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 520,
+   "main_keyword": "하락",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 521,
+   "main_keyword": "합의",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 522,
+   "main_keyword": "라면",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 523,
+   "main_keyword": "증권",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 524,
+   "main_keyword": "매출",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 525,
+   "main_keyword": "디",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 526,
+   "main_keyword": "낙찰",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 527,
+   "main_keyword": "진자",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 528,
+   "main_keyword": "포인트",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 529,
+   "main_keyword": "교보",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 530,
+   "main_keyword": "노조",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 531,
+   "main_keyword": "설치",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 532,
+   "main_keyword": "주가",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 533,
+   "main_keyword": "멕시코",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 534,
+   "main_keyword": "국민연금",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 535,
+   "main_keyword": "수수료",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 536,
+   "main_keyword": "전기차",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 537,
+   "main_keyword": "전자",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 538,
+   "main_keyword": "전자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 539,
+   "main_keyword": "조합",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 540,
+   "main_keyword": "원장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 541,
+   "main_keyword": "원장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 542,
+   "main_keyword": "회장",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 543,
+   "main_keyword": "화장품",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 544,
+   "main_keyword": "거래",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 545,
+   "main_keyword": "리츠",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 546,
+   "main_keyword": "이익",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 547,
+   "main_keyword": "원전",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 548,
+   "main_keyword": "의사록",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 549,
+   "main_keyword": "가격",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 550,
+   "main_keyword": "반도체",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 551,
+   "main_keyword": "여의도역",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 552,
+   "main_keyword": "탕수육",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 553,
+   "main_keyword": "질문",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 554,
+   "main_keyword": "매장",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 555,
+   "main_keyword": "매각",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 556,
+   "main_keyword": "합의",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 557,
+   "main_keyword": "대출",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 558,
+   "main_keyword": "구리",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 559,
+   "main_keyword": "마이클",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 560,
+   "main_keyword": "중공업",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 561,
+   "main_keyword": "주택",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 562,
+   "main_keyword": "지역",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 563,
+   "main_keyword": "치료",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 564,
+   "main_keyword": "카드",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 565,
+   "main_keyword": "지난해",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 566,
+   "main_keyword": "진자",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 567,
+   "main_keyword": "주택",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 568,
+   "main_keyword": "기능",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 569,
+   "main_keyword": "무상증자",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 570,
+   "main_keyword": "은행",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 571,
+   "main_keyword": "기획",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 572,
+   "main_keyword": "조합",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 573,
+   "main_keyword": "사업",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 574,
+   "main_keyword": "지수",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 575,
+   "main_keyword": "주택",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 576,
+   "main_keyword": "낙찰",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 577,
+   "main_keyword": "전망",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 578,
+   "main_keyword": "전망",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 579,
+   "main_keyword": "주택",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 580,
+   "main_keyword": "상승",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 581,
+   "main_keyword": "대한항공",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 582,
+   "main_keyword": "독일",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 583,
+   "main_keyword": "천안",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 584,
+   "main_keyword": "교보",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 585,
+   "main_keyword": "포럼",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 586,
+   "main_keyword": "카드",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 587,
+   "main_keyword": "조합",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 588,
+   "main_keyword": "전자",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 589,
+   "main_keyword": "에너지",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 590,
+   "main_keyword": "하나은행",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 591,
+   "main_keyword": "코인",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 592,
+   "main_keyword": "조합",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 593,
+   "main_keyword": "부산",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 594,
+   "main_keyword": "전자",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 595,
+   "main_keyword": "최대",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 596,
+   "main_keyword": "분양",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 597,
+   "main_keyword": "가격",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 598,
+   "main_keyword": "할증",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 599,
+   "main_keyword": "전자",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 600,
+   "main_keyword": "전자",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 601,
+   "main_keyword": "사업",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 602,
+   "main_keyword": "실적",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 603,
+   "main_keyword": "지수",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 604,
+   "main_keyword": "분양",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 605,
+   "main_keyword": "원전",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 606,
+   "main_keyword": "사업",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 607,
+   "main_keyword": "비트코인",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 608,
+   "main_keyword": "대한항공",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 609,
+   "main_keyword": "분기",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 610,
+   "main_keyword": "가구",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 611,
+   "main_keyword": "합의",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 612,
+   "main_keyword": "상장",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 613,
+   "main_keyword": "주식",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 614,
+   "main_keyword": "노조",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 615,
+   "main_keyword": "집무실",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 616,
+   "main_keyword": "조합",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 617,
+   "main_keyword": "멕시코",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 618,
+   "main_keyword": "원장",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 619,
+   "main_keyword": "리츠",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 620,
+   "main_keyword": "무인",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 621,
+   "main_keyword": "뉴저지주",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 622,
+   "main_keyword": "원장",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 623,
+   "main_keyword": "교보",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 624,
+   "main_keyword": "카드",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 625,
+   "main_keyword": "흑자",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 626,
+   "main_keyword": "원전",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 627,
+   "main_keyword": "외식",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 628,
+   "main_keyword": "낙찰",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 629,
+   "main_keyword": "달러",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 630,
+   "main_keyword": "탕수육",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 631,
+   "main_keyword": "감기",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 632,
+   "main_keyword": "바이오",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 633,
+   "main_keyword": "카카오",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 634,
+   "main_keyword": "카카오",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 635,
+   "main_keyword": "주가",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 636,
+   "main_keyword": "원장",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 637,
+   "main_keyword": "케토",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 638,
+   "main_keyword": "한국",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 639,
+   "main_keyword": "산업",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 640,
+   "main_keyword": "실적",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 641,
+   "main_keyword": "조지",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 642,
+   "main_keyword": "반도체",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 643,
+   "main_keyword": "조합",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 644,
+   "main_keyword": "한국",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 645,
+   "main_keyword": "횡령",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 646,
+   "main_keyword": "중국",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 647,
+   "main_keyword": "단지",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 648,
+   "main_keyword": "두산",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 649,
+   "main_keyword": "낙찰",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 650,
+   "main_keyword": "수요",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 651,
+   "main_keyword": "대구",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 652,
+   "main_keyword": "대전",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 653,
+   "main_keyword": "사업",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 654,
+   "main_keyword": "교보",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 655,
+   "main_keyword": "증권",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 656,
+   "main_keyword": "일정",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 657,
+   "main_keyword": "흑자",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 658,
+   "main_keyword": "물가",
+   "keyword_count": 36
+ },
+ {
+   "keyword_no": 659,
+   "main_keyword": "매출",
+   "keyword_count": 3
+ },
+ {
+   "keyword_no": 660,
+   "main_keyword": "스마트폰",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 661,
+   "main_keyword": "전력",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 662,
+   "main_keyword": "매출",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 663,
+   "main_keyword": "중국",
+   "keyword_count": 27
+ },
+ {
+   "keyword_no": 664,
+   "main_keyword": "실적",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 665,
+   "main_keyword": "낙찰",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 666,
+   "main_keyword": "공포",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 667,
+   "main_keyword": "정부",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 668,
+   "main_keyword": "홍콩",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 669,
+   "main_keyword": "신세계",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 670,
+   "main_keyword": "가뭄",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 671,
+   "main_keyword": "낙찰",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 672,
+   "main_keyword": "환율",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 673,
+   "main_keyword": "아쿠아",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 674,
+   "main_keyword": "정선",
+   "keyword_count": 2
+ },
+ {
+   "keyword_no": 675,
+   "main_keyword": "신세계",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 676,
+   "main_keyword": "사조",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 677,
+   "main_keyword": "디스플레이",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 678,
+   "main_keyword": "에어컨",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 679,
+   "main_keyword": "분쟁",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 680,
+   "main_keyword": "검증",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 681,
+   "main_keyword": "남양유업",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 682,
+   "main_keyword": "포스코",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 683,
+   "main_keyword": "원료",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 684,
+   "main_keyword": "사업",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 685,
+   "main_keyword": "상장",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 686,
+   "main_keyword": "모델",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 687,
+   "main_keyword": "조합",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 688,
+   "main_keyword": "대구",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 689,
+   "main_keyword": "이익",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 690,
+   "main_keyword": "스톤",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 691,
+   "main_keyword": "흑자",
+   "keyword_count": 29
+ },
+ {
+   "keyword_no": 692,
+   "main_keyword": "정액",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 693,
+   "main_keyword": "머스크",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 694,
+   "main_keyword": "원전",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 695,
+   "main_keyword": "집중",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 696,
+   "main_keyword": "카드",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 697,
+   "main_keyword": "쌍용",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 698,
+   "main_keyword": "포스코",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 699,
+   "main_keyword": "우리",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 700,
+   "main_keyword": "광주",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 701,
+   "main_keyword": "세대",
+   "keyword_count": 37
+ },
+ {
+   "keyword_no": 702,
+   "main_keyword": "세대",
+   "keyword_count": 26
+ },
+ {
+   "keyword_no": 703,
+   "main_keyword": "규제",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 704,
+   "main_keyword": "데이터",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 705,
+   "main_keyword": "사업",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 706,
+   "main_keyword": "클래스",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 707,
+   "main_keyword": "전자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 708,
+   "main_keyword": "원전",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 709,
+   "main_keyword": "세라",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 710,
+   "main_keyword": "단지",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 711,
+   "main_keyword": "흑자",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 712,
+   "main_keyword": "케미칼",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 713,
+   "main_keyword": "합의",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 714,
+   "main_keyword": "구스통",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 715,
+   "main_keyword": "백년",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 716,
+   "main_keyword": "연구",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 717,
+   "main_keyword": "백신",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 718,
+   "main_keyword": "코오롱",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 719,
+   "main_keyword": "콘텐츠",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 720,
+   "main_keyword": "올반",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 721,
+   "main_keyword": "가상",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 722,
+   "main_keyword": "메타",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 723,
+   "main_keyword": "소득",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 724,
+   "main_keyword": "실적",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 725,
+   "main_keyword": "가격",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 726,
+   "main_keyword": "신협",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 727,
+   "main_keyword": "매출",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 728,
+   "main_keyword": "전자",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 729,
+   "main_keyword": "전자",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 730,
+   "main_keyword": "기술",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 731,
+   "main_keyword": "원장",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 732,
+   "main_keyword": "진자",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 733,
+   "main_keyword": "전자",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 734,
+   "main_keyword": "침체",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 735,
+   "main_keyword": "가상",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 736,
+   "main_keyword": "한국",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 737,
+   "main_keyword": "멕시코",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 738,
+   "main_keyword": "수원",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 739,
+   "main_keyword": "가격",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 740,
+   "main_keyword": "할인",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 741,
+   "main_keyword": "홈플러스",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 742,
+   "main_keyword": "교보",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 743,
+   "main_keyword": "기업",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 744,
+   "main_keyword": "상승",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 745,
+   "main_keyword": "패키지",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 746,
+   "main_keyword": "진자",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 747,
+   "main_keyword": "타운",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 748,
+   "main_keyword": "신세계",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 749,
+   "main_keyword": "경쟁력",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 750,
+   "main_keyword": "한라",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 751,
+   "main_keyword": "소비자",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 752,
+   "main_keyword": "사업",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 753,
+   "main_keyword": "티몬",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 754,
+   "main_keyword": "무인",
+   "keyword_count": 25
+ },
+ {
+   "keyword_no": 755,
+   "main_keyword": "바이오",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 756,
+   "main_keyword": "암호",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 757,
+   "main_keyword": "흑자",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 758,
+   "main_keyword": "횡령",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 759,
+   "main_keyword": "거래",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 760,
+   "main_keyword": "코난테크놀로지",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 761,
+   "main_keyword": "전자",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 762,
+   "main_keyword": "건설",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 763,
+   "main_keyword": "반도체",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 764,
+   "main_keyword": "특허",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 765,
+   "main_keyword": "지역",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 766,
+   "main_keyword": "청약",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 767,
+   "main_keyword": "타운",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 768,
+   "main_keyword": "상승",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 769,
+   "main_keyword": "가전",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 770,
+   "main_keyword": "대구",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 771,
+   "main_keyword": "오른",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 772,
+   "main_keyword": "상장",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 773,
+   "main_keyword": "음식",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 774,
+   "main_keyword": "이익",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 775,
+   "main_keyword": "회장",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 776,
+   "main_keyword": "메타",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 777,
+   "main_keyword": "청약",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 778,
+   "main_keyword": "상장",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 779,
+   "main_keyword": "데이터",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 780,
+   "main_keyword": "공기업",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 781,
+   "main_keyword": "공기업",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 782,
+   "main_keyword": "특허",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 783,
+   "main_keyword": "원전",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 784,
+   "main_keyword": "사진",
+   "keyword_count": 48
+ },
+ {
+   "keyword_no": 785,
+   "main_keyword": "매출",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 786,
+   "main_keyword": "상품",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 787,
+   "main_keyword": "위메이드",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 788,
+   "main_keyword": "데이터",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 789,
+   "main_keyword": "제주",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 790,
+   "main_keyword": "삼성",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 791,
+   "main_keyword": "부회장",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 792,
+   "main_keyword": "두산",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 793,
+   "main_keyword": "안전",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 794,
+   "main_keyword": "티웨이항공",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 795,
+   "main_keyword": "상승",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 796,
+   "main_keyword": "부회장",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 797,
+   "main_keyword": "원장",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 798,
+   "main_keyword": "거래",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 799,
+   "main_keyword": "흑자",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 800,
+   "main_keyword": "올해",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 801,
+   "main_keyword": "이익",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 802,
+   "main_keyword": "노미",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 803,
+   "main_keyword": "달러",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 804,
+   "main_keyword": "포스코",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 805,
+   "main_keyword": "상승",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 806,
+   "main_keyword": "포르쉐",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 807,
+   "main_keyword": "케토",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 808,
+   "main_keyword": "앨범",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 809,
+   "main_keyword": "달러",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 810,
+   "main_keyword": "매출",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 811,
+   "main_keyword": "새벽",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 812,
+   "main_keyword": "전자",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 813,
+   "main_keyword": "데이터",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 814,
+   "main_keyword": "펩시",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 815,
+   "main_keyword": "절세",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 816,
+   "main_keyword": "상승",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 817,
+   "main_keyword": "가격",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 818,
+   "main_keyword": "주가",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 819,
+   "main_keyword": "중국",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 820,
+   "main_keyword": "지수",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 821,
+   "main_keyword": "지수",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 822,
+   "main_keyword": "가격",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 823,
+   "main_keyword": "주가",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 824,
+   "main_keyword": "투자",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 825,
+   "main_keyword": "센터",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 826,
+   "main_keyword": "생산",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 827,
+   "main_keyword": "대한항공",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 828,
+   "main_keyword": "염색",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 829,
+   "main_keyword": "혈관",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 830,
+   "main_keyword": "슈팅",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 831,
+   "main_keyword": "횡령",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 832,
+   "main_keyword": "매출",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 833,
+   "main_keyword": "대구",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 834,
+   "main_keyword": "전자",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 835,
+   "main_keyword": "기획",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 836,
+   "main_keyword": "포스코",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 837,
+   "main_keyword": "지수",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 838,
+   "main_keyword": "설치",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 839,
+   "main_keyword": "전자",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 840,
+   "main_keyword": "현대",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 841,
+   "main_keyword": "관세",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 842,
+   "main_keyword": "통운",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 843,
+   "main_keyword": "콘서트",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 844,
+   "main_keyword": "스튜디오",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 845,
+   "main_keyword": "현대",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 846,
+   "main_keyword": "신세계",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 847,
+   "main_keyword": "가능",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 848,
+   "main_keyword": "전자",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 849,
+   "main_keyword": "블록",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 850,
+   "main_keyword": "물가",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 851,
+   "main_keyword": "두산",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 852,
+   "main_keyword": "송도",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 853,
+   "main_keyword": "생활",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 854,
+   "main_keyword": "멕시코",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 855,
+   "main_keyword": "매출",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 856,
+   "main_keyword": "차관",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 857,
+   "main_keyword": "매장",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 858,
+   "main_keyword": "유동",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 859,
+   "main_keyword": "가격",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 860,
+   "main_keyword": "멕시코",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 861,
+   "main_keyword": "등록금",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 862,
+   "main_keyword": "관련",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 863,
+   "main_keyword": "블록",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 864,
+   "main_keyword": "염색",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 865,
+   "main_keyword": "상품",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 866,
+   "main_keyword": "중국",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 867,
+   "main_keyword": "지수",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 868,
+   "main_keyword": "파스",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 869,
+   "main_keyword": "네이버",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 870,
+   "main_keyword": "온라인",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 871,
+   "main_keyword": "원주",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 872,
+   "main_keyword": "코인",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 873,
+   "main_keyword": "매출",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 874,
+   "main_keyword": "여행",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 875,
+   "main_keyword": "홈플러스",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 876,
+   "main_keyword": "가격",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 877,
+   "main_keyword": "증가",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 878,
+   "main_keyword": "노미",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 879,
+   "main_keyword": "경제",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 880,
+   "main_keyword": "편입",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 881,
+   "main_keyword": "수익",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 882,
+   "main_keyword": "할인",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 883,
+   "main_keyword": "아티스트",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 884,
+   "main_keyword": "일품",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 885,
+   "main_keyword": "스마일",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 886,
+   "main_keyword": "슈팅",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 887,
+   "main_keyword": "금리",
+   "keyword_count": 30
+ },
+ {
+   "keyword_no": 888,
+   "main_keyword": "실적",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 889,
+   "main_keyword": "세계",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 890,
+   "main_keyword": "집값",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 891,
+   "main_keyword": "상승",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 892,
+   "main_keyword": "증가",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 893,
+   "main_keyword": "모빌리티",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 894,
+   "main_keyword": "회장",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 895,
+   "main_keyword": "경기",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 896,
+   "main_keyword": "식물성",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 897,
+   "main_keyword": "증가",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 898,
+   "main_keyword": "펀드",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 899,
+   "main_keyword": "오늘",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 900,
+   "main_keyword": "가격",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 901,
+   "main_keyword": "노미",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 902,
+   "main_keyword": "키링",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 903,
+   "main_keyword": "선수",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 904,
+   "main_keyword": "상승",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 905,
+   "main_keyword": "하향",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 906,
+   "main_keyword": "매출",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 907,
+   "main_keyword": "인상",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 908,
+   "main_keyword": "서비스",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 909,
+   "main_keyword": "카카오",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 910,
+   "main_keyword": "파산",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 911,
+   "main_keyword": "투자",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 912,
+   "main_keyword": "단지",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 913,
+   "main_keyword": "카카오",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 914,
+   "main_keyword": "금리",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 915,
+   "main_keyword": "가격",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 916,
+   "main_keyword": "상장",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 917,
+   "main_keyword": "이익",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 918,
+   "main_keyword": "증시",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 919,
+   "main_keyword": "달러",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 920,
+   "main_keyword": "서울",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 921,
+   "main_keyword": "식물성",
+   "keyword_count": 28
+ },
+ {
+   "keyword_no": 922,
+   "main_keyword": "전망",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 923,
+   "main_keyword": "판매량",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 924,
+   "main_keyword": "이익",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 925,
+   "main_keyword": "타운",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 926,
+   "main_keyword": "광주",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 927,
+   "main_keyword": "가격",
+   "keyword_count": 20
+ },
+ {
+   "keyword_no": 928,
+   "main_keyword": "시세",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 929,
+   "main_keyword": "달러",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 930,
+   "main_keyword": "금리",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 931,
+   "main_keyword": "애플",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 932,
+   "main_keyword": "우주",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 933,
+   "main_keyword": "증권",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 934,
+   "main_keyword": "하락",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 935,
+   "main_keyword": "비트코인",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 936,
+   "main_keyword": "에너지",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 937,
+   "main_keyword": "방역",
+   "keyword_count": 3
+ },
+ {
+   "keyword_no": 938,
+   "main_keyword": "매출",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 939,
+   "main_keyword": "원전",
+   "keyword_count": 24
+ },
+ {
+   "keyword_no": 940,
+   "main_keyword": "배추",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 941,
+   "main_keyword": "우즈베키스탄",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 942,
+   "main_keyword": "증시",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 943,
+   "main_keyword": "매출",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 944,
+   "main_keyword": "투자",
+   "keyword_count": 16
+ },
+ {
+   "keyword_no": 945,
+   "main_keyword": "생산",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 946,
+   "main_keyword": "수지",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 947,
+   "main_keyword": "소득",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 948,
+   "main_keyword": "백신",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 949,
+   "main_keyword": "웨이",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 950,
+   "main_keyword": "주유소",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 951,
+   "main_keyword": "편의점",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 952,
+   "main_keyword": "달러",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 953,
+   "main_keyword": "공매도",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 954,
+   "main_keyword": "가격",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 955,
+   "main_keyword": "신흥",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 956,
+   "main_keyword": "시장",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 957,
+   "main_keyword": "부모",
+   "keyword_count": 18
+ },
+ {
+   "keyword_no": 958,
+   "main_keyword": "생산",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 959,
+   "main_keyword": "실적",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 960,
+   "main_keyword": "기사",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 961,
+   "main_keyword": "기사",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 962,
+   "main_keyword": "하락",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 963,
+   "main_keyword": "포인트",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 964,
+   "main_keyword": "논어",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 965,
+   "main_keyword": "반도체",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 966,
+   "main_keyword": "타운",
+   "keyword_count": 13
+ },
+ {
+   "keyword_no": 967,
+   "main_keyword": "광주",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 968,
+   "main_keyword": "침체",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 969,
+   "main_keyword": "에너지",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 970,
+   "main_keyword": "서학",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 971,
+   "main_keyword": "의사록",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 972,
+   "main_keyword": "수주",
+   "keyword_count": 5
+ },
+ {
+   "keyword_no": 973,
+   "main_keyword": "의사록",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 974,
+   "main_keyword": "바디",
+   "keyword_count": 19
+ },
+ {
+   "keyword_no": 975,
+   "main_keyword": "재고",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 976,
+   "main_keyword": "가능성",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 977,
+   "main_keyword": "포인트",
+   "keyword_count": 8
+ },
+ {
+   "keyword_no": 978,
+   "main_keyword": "교수",
+   "keyword_count": 15
+ },
+ {
+   "keyword_no": 979,
+   "main_keyword": "비건",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 980,
+   "main_keyword": "주식",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 981,
+   "main_keyword": "비건",
+   "keyword_count": 21
+ },
+ {
+   "keyword_no": 982,
+   "main_keyword": "주식",
+   "keyword_count": 22
+ },
+ {
+   "keyword_no": 983,
+   "main_keyword": "가격",
+   "keyword_count": 12
+ },
+ {
+   "keyword_no": 984,
+   "main_keyword": "활용",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 985,
+   "main_keyword": "금리",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 986,
+   "main_keyword": "지수",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 987,
+   "main_keyword": "물가",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 988,
+   "main_keyword": "코인",
+   "keyword_count": 23
+ },
+ {
+   "keyword_no": 989,
+   "main_keyword": "토레스",
+   "keyword_count": 40
+ },
+ {
+   "keyword_no": 990,
+   "main_keyword": "재고",
+   "keyword_count": 11
+ },
+ {
+   "keyword_no": 991,
+   "main_keyword": "중대",
+   "keyword_count": 10
+ },
+ {
+   "keyword_no": 992,
+   "main_keyword": "파업",
+   "keyword_count": 6
+ },
+ {
+   "keyword_no": 993,
+   "main_keyword": "점거",
+   "keyword_count": 14
+ },
+ {
+   "keyword_no": 994,
+   "main_keyword": "직원",
+   "keyword_count": 4
+ },
+ {
+   "keyword_no": 995,
+   "main_keyword": "알뜰폰",
+   "keyword_count": 17
+ },
+ {
+   "keyword_no": 996,
+   "main_keyword": "증시",
+   "keyword_count": 9
+ },
+ {
+   "keyword_no": 997,
+   "main_keyword": "소득",
+   "keyword_count": 7
+ },
+ {
+   "keyword_no": 998,
+   "main_keyword": "스마트",
+   "keyword_count": 31
+ },
+ {
+   "keyword_no": 999,
+   "main_keyword": "우려",
+   "keyword_count": 3
+ }
+]
